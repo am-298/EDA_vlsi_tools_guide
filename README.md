@@ -85,9 +85,6 @@ Or Follow the steps shown in this YouTube tutorial:
 * To view simulation waveforms, install a waveform viewer such as **GTKWave**.
 
 ---
-Here is the **README.md–ready**, clean, and corrected version of that section. I kept it short and very clear.
-
----
 
 ### Installing Icarus Verilog
 
