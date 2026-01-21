@@ -1,5 +1,4 @@
-## written by : ayushi maurya
-## module : D Flip Flop with synchronous reset
+// module : D Flip Flop with synchronous reset
 
 
 `timescale 1ns/1ps
